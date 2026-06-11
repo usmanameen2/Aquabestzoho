@@ -1,0 +1,89 @@
+{
+  "organization": {
+    "name": "Aqua Best UAE",
+    "user": "Accounts Admin",
+    "support": "80004440824",
+    "currency": "AED"
+  },
+  "currentUser": null,
+  "moneyPreview": {
+    "receivables": "AED 0.00",
+    "payables": "AED 0.00"
+  },
+  "records": {
+    "contacts": [],
+    "invoices": [],
+    "quotes": [],
+    "retainerinvoices": [],
+    "salesorders": [],
+    "deliverychallans": [],
+    "paymentsreceived": [],
+    "recurringinvoices": [],
+    "creditnotes": [],
+    "vendors": [],
+    "expenses": [],
+    "recurringexpenses": [],
+    "purchaseorders": [],
+    "bills": [],
+    "paymentsmade": [],
+    "recurringbills": [],
+    "vendorcredits": [],
+    "inventory/items": [],
+    "inventory/pricelists": [],
+    "inventory/adjustments": [],
+    "timesheet/projects": [],
+    "timesheet/alltimeentries": [],
+    "accountant/journals": [],
+    "accountant/recurringjournals": [],
+    "accountant/bulkupdateaccounts": [],
+    "taxreturnpayments/dues": [],
+    "taxadjustment/list": [],
+    "accountant/bcyadjustment/list": [],
+    "accountant/chartofaccounts": [],
+    "accountant/transactionlock": [],
+    "documents": []
+  },
+  "reports": [
+    { "id": "profitandloss", "group": "Business Overview", "name": "Profit and Loss", "type": "Profit and Loss", "createdBy": "System Generated" },
+    { "id": "cfstatement", "group": "Business Overview", "name": "Cash Flow Statement", "type": "Cash Flow Statement", "createdBy": "System Generated" },
+    { "id": "balancesheet", "group": "Business Overview", "name": "Balance Sheet", "type": "Balance Sheet", "createdBy": "System Generated" },
+    { "id": "salesbycustomer", "group": "Sales", "name": "Sales by Customer", "type": "Summary", "createdBy": "System Generated" },
+    { "id": "invoiceaging", "group": "Receivables", "name": "Tax Invoice Aging Summary", "type": "Aging", "createdBy": "System Generated" },
+    { "id": "billaging", "group": "Payables", "name": "Bill Aging Summary", "type": "Aging", "createdBy": "System Generated" },
+    { "id": "taxsummary", "group": "Accountant", "name": "VAT Summary", "type": "Tax", "createdBy": "System Generated" },
+    { "id": "activitylogs", "group": "Activity", "name": "Activity Logs", "type": "Audit", "createdBy": "System Generated" }
+  ],
+  "bankingAccounts": [],
+  "metrics": {
+    "receivables": { "total": 0, "current": 0, "overdue": 0 },
+    "payables": { "total": 0, "current": 0, "overdue": 0 },
+    "cashFlow": {
+      "opening": 0,
+      "incoming": 0,
+      "outgoing": 0,
+      "closing": 0,
+      "series": [
+        { "month": "Jan", "value": 0 },
+        { "month": "Feb", "value": 0 },
+        { "month": "Mar", "value": 0 },
+        { "month": "Apr", "value": 0 },
+        { "month": "May", "value": 0 },
+        { "month": "Jun", "value": 0 },
+        { "month": "Jul", "value": 0 },
+        { "month": "Aug", "value": 0 },
+        { "month": "Sep", "value": 0 },
+        { "month": "Oct", "value": 0 },
+        { "month": "Nov", "value": 0 },
+        { "month": "Dec", "value": 0 },
+        { "month": "Now", "value": 0 }
+      ]
+    },
+    "incomeExpense": [
+      { "name": "Income", "value": 0 },
+      { "name": "Expenses", "value": 0 }
+    ],
+    "expenses": [],
+    "projects": []
+  },
+  "activities": []
+}
